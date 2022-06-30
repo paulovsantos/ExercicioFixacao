@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Text;
 namespace ExercicioFixacao.Entities
 {
     class Client
